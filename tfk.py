@@ -45,7 +45,7 @@ if(secim =="1"):
 	os.system("apt install nodejs -y")
 	os.system("clear")
 elif(secim == "2"):
-	os.system(" ")
+	os.system("clear")
 	print("Program Kapatılıyor...")
 
 else:
